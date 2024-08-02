@@ -30,7 +30,7 @@
 - :student: I’m currently learning `React` and `Node.js`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [My resume](#).
-- :boom: You can visit [My website](#).
+- :boom: You can visit [My website](https://vickeys-vibe.vercel.app).
 <br>
 
 
